@@ -22,4 +22,5 @@ require("lazy").setup({
 	{ import = "plugins.gitsigns" },
 	{ import = "plugins.comment" },
 	{ import = "plugins.bufferline" },
+	{ import = "plugins.autocompletion" },
 })
