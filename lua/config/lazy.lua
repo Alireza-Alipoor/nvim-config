@@ -24,4 +24,5 @@ require("lazy").setup({
 	{ import = "plugins.bufferline" },
 	{ import = "plugins.autocompletion" },
 	{ import = "plugins.alpha" },
+	{ import = "plugins.misc" },
 })
