@@ -19,4 +19,5 @@ require("lazy").setup({
 	{ import = "plugins.neotree" },
 	{ import = "plugins.lualine" },
 	{ import = "plugins.indent-blankline" },
+	{ import = "plugins.gitsigns" },
 })
