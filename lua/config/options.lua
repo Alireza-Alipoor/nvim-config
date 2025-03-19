@@ -46,6 +46,5 @@ vim.opt.termguicolors = true
 -- Allow virtual editing in block mode (useful for block selections)
 vim.opt.virtualedit = 'block'
 
--- set file format to unix
+-- Set the file format to Unix-style line endings (LF)
 vim.opt.fileformat = 'unix'
-
