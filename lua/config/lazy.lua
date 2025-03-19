@@ -13,6 +13,7 @@ vim.opt.rtp:prepend(lazypath)
 require('lazy').setup {
 	{ import = 'plugins.colortheme' },
 	{ import = 'plugins.treesitter' },
-	{ import = 'plugins.telescope' }
-	
+	{ import = 'plugins.telescope' },
+	{ import = 'plugins.lsp' },
+	{ import = 'plugins.none-ls' }
  }
