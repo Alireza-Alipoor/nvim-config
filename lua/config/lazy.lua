@@ -21,4 +21,5 @@ require("lazy").setup({
 	{ import = "plugins.indent-blankline" },
 	{ import = "plugins.gitsigns" },
 	{ import = "plugins.comment" },
+	{ import = "plugins.bufferline" },
 })
