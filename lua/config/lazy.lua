@@ -18,4 +18,5 @@ require("lazy").setup({
 	{ import = "plugins.none-ls" },
 	{ import = "plugins.neotree" },
 	{ import = "plugins.lualine" },
+	{ import = "plugins.indent-blankline" },
 })
